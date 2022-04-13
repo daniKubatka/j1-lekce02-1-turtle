@@ -8,6 +8,7 @@ public class HlavniProgram {
         Turtle zofka;
 
         zofka = new Turtle();
+        zofka.setLocation(50,150);
     }
 
 }
